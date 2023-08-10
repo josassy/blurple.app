@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/blurple.app/static/css/main.267fec55.css",
-    "main.js": "/blurple.app/static/js/main.fb89e791.js",
-    "index.html": "/blurple.app/index.html",
-    "main.267fec55.css.map": "/blurple.app/static/css/main.267fec55.css.map",
-    "main.fb89e791.js.map": "/blurple.app/static/js/main.fb89e791.js.map"
+    "main.css": "/static/css/main.267fec55.css",
+    "main.js": "/static/js/main.fb89e791.js",
+    "index.html": "/index.html",
+    "main.267fec55.css.map": "/static/css/main.267fec55.css.map",
+    "main.fb89e791.js.map": "/static/js/main.fb89e791.js.map"
   },
   "entrypoints": [
     "static/css/main.267fec55.css",
